@@ -1,0 +1,46 @@
+# Ignorar arquivos de ambiente virtual
+venv/
+env/
+ENV/
+.env
+
+# Ignorar arquivos de bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignorar arquivos gerados pelo matplotlib
+*.png
+*.pdf
+
+# Ignorar arquivos temporários do sistema
+*.tmp
+*~
+*.swp
+.DS_Store
+
+# Ignorar diretório de uploads (se houver)
+uploads/
+
+# Ignorar arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Ignorar possíveis arquivos de credenciais ou chaves de API
+*.ini
+*.secrets
