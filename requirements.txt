@@ -13,7 +13,6 @@ fonttools==4.55.8
 frozenlist==1.5.0
 idna==3.10
 kiwisolver==1.4.8
-logging==0.4.9.6
 matplotlib==3.10.0
 multidict==6.1.0
 numpy==2.2.2
@@ -22,8 +21,11 @@ Pillow==11.1.0
 propcache==0.2.1
 pyparsing==3.2.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+redis==5.0.3
 requests==2.32.3
 six==1.17.0
 soupsieve==2.6
+sqlalchemy==2.0.29
 urllib3==2.3.0
 yarl==1.18.3
