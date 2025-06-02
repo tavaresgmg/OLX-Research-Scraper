@@ -8,7 +8,7 @@
 
 > 🚀 **Professional-grade scraper** for OLX Brazil market intelligence and competitive pricing analysis
 
-**Developed by [Guilherme Tavares](https://github.com/tavaresgmg)** - CTO & Python Specialist | 8x Hackathon Winner
+**Developed by [Guilherme Tavares](https://github.com/tavaresgmg)** - CTO & Python Specialist | 9x Hackathon Champion
 
 ---
 
