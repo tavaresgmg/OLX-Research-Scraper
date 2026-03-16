@@ -216,7 +216,6 @@ This project is licensed under **GNU General Public License v3.0**. See [LICENSE
 ## 📞 Professional Contact
 
 **Guilherme Tavares** - Project Author  
-🔗 **LinkedIn**: [/in/tavaresgmg](https://linkedin.com/in/tavaresgmg)  
 📧 **Email**: contact@tavaresgmg.dev  
 🌐 **Portfolio**: [tavaresgmg.dev](https://tavaresgmg.dev)  
 
